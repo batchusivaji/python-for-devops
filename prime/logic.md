@@ -1,6 +1,6 @@
 ### Logic
 
-```txt
+```js
 1. remember 10 as a number
 2. remember 2 as a index
 3. remainder = number % index

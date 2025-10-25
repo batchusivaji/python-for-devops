@@ -1,6 +1,6 @@
 ### Logic
 
-```sh
+```js
 remeber 15 as number
 remember 2 as index
 remainder = number % index
