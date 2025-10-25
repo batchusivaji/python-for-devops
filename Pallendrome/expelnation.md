@@ -1,5 +1,6 @@
 ### Pallendrome logic
 
+```py
 1. number = 123 (dividend)
 2. result = 0
 3. originalNumber = number
@@ -12,3 +13,4 @@
      8.1 say Pallendrome
 9. if originamNumber != result
      9.1 say not Pallendrome
+```
