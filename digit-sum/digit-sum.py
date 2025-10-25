@@ -7,4 +7,5 @@ while number > 0:
 if number > 9:
     number = result
     result = 0
+ 
 print(f"Number is: {result}")
