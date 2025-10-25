@@ -1,6 +1,6 @@
 ### euler-1
 
-`https://projecteuler.net/problem=1`
+https://projecteuler.net/problem=1
 
 ```js
 1. result = 0
