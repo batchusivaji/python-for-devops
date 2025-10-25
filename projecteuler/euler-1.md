@@ -1,7 +1,8 @@
 ### euler-1
 
-https://projecteuler.net/problem=1
+`https://projecteuler.net/problem=1`
 
+```js
 1. result = 0
 2. index  = 2
 3. sum    = 10
@@ -12,3 +13,4 @@ https://projecteuler.net/problem=1
 7. if index < max
   7.1 go to 4
 8. say result
+```
