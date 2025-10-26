@@ -1,11 +1,14 @@
+"""Sum addition using while loop."""
+
 number = int(input("Enter a number:"))
-result = 0
+RESULT = 0
+
 while number > 0:
     digit  = number % 10
     number = number // 10
-    result = result + digit
-if number > 9:
-    number = result
-    result = 0
- 
-print(f"Number is: {result}")
+    RESULT = RESULT + digit
+    if number == 0 and RESULT > 9:
+        number = RESULT
+        RESULT = 0
+
+print(f"Number is: {RESULT}")
